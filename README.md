@@ -100,7 +100,7 @@
 ## 5. End-to-End Project Structure
 
 ```bash
-    project/
+project/
 ├── datasets/your_dataset/
 │   ├── trainA/   # sim
 │   ├── trainB/   # real
