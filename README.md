@@ -1,6 +1,6 @@
 # ✅ Sim2Real Image Translation — Step-by-Step Guide
 
-## 1. Project Case: Why & Use‑Cases
+## 1. Why & Use‑Cases
 
 1. **Goal**: Turn synthetic (simulation) images into realistic ones.
 2. **Why it matters**:
