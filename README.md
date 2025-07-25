@@ -85,6 +85,7 @@ Sim2Real (Simulation-to-Reality) techniques enable the transformation of synthet
   * Paper: [Zhu et al., 2017](https://arxiv.org/pdf/1703.10593)
   * [Official Website](https://junyanz.github.io/CycleGAN/)
   * Code: [GitHub Repo](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+  - **Further reading**: [MLJourney: Pix2Pix vs CycleGAN vs StarGAN](https://mljourney.com/image-to-image-translation-pix2pix-vs-cyclegan-vs-stargan/)
 
 * **Preparation**:
   * Organize data: `trainA/` (sim), `trainB/` (real), optionally `testA/`, `testB/`.
@@ -115,6 +116,7 @@ Sim2Real (Simulation-to-Reality) techniques enable the transformation of synthet
 
 * **References**:
   * Code: [GitHub Repo](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+  - **Further reading**: [MLJourney: Pix2Pix vs CycleGAN vs StarGAN](https://mljourney.com/image-to-image-translation-pix2pix-vs-cyclegan-vs-stargan/)
 * **Data Structure**: A folder containing side-by-side paired images.
 
 * **Training**:
