@@ -203,7 +203,7 @@ Sim2Real (Simulation-to-Reality) techniques enable the transformation of synthet
 
 #### Combined strategies often yield the best performance in practical Sim2Real systems.
 
----
+<!-- ---
 
 ## 8. End-to-End Project Structure
 
@@ -244,4 +244,4 @@ for i in range(3):
     Image.new("RGB",(256,256),(120,120,120)).save(f"datasets/example/trainA/{i}.jpg")
     Image.new("RGB",(256,256),(0,180,0)).save(f"datasets/example/trainB/{i}.jpg")
 
-  ```
+  ``` -->
